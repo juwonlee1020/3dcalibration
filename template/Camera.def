@@ -1,0 +1,6 @@
+; Camera.def : Declares the module parameters for the DLL.
+
+LIBRARY      "camera"
+
+EXPORTS
+    ; Explicit exports can go here
